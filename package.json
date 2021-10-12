@@ -1,0 +1,26 @@
+{
+  "name": "puckchain",
+  "version": "0.1.0",
+  "description": "A javascript toolchain of compiler frontend for you to parse codes and make some amazing things.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WGrape/puckchain.git"
+  },
+  "keywords": [
+    "javascript",
+    "toolchain",
+    "compiler",
+    "compiler-frontend"
+  ],
+  "author": "Wgrape",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WGrape/puckchain/issues"
+  },
+  "homepage": "https://github.com/WGrape/puckchain#readme",
+  "dependencies": {
+    "chain-lexer": "^1.6.0"
+  }
+}
