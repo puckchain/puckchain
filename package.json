@@ -1,6 +1,6 @@
 {
   "name": "puckchain",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A javascript toolchain of compiler frontend for you to parse codes and make some amazing things.",
   "main": "index.js",
   "scripts": {},
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/WGrape/puckchain#readme",
   "dependencies": {
-    "chain-lexer": "^1.9.0"
+    "chain-lexer": "^1.10.0"
   }
 }
