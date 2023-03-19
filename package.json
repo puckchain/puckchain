@@ -1,6 +1,6 @@
 {
   "name": "puckchain",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A javascript toolchain of compiler frontend for you to parse codes and make some amazing things.",
   "main": "index.js",
   "scripts": {},
