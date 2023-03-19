@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/WGrape/puckchain#readme",
   "dependencies": {
-    "chain-lexer": "^1.6.1"
+    "chain-lexer": "^1.9.0"
   }
 }
