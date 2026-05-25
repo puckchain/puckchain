@@ -29,11 +29,16 @@ npm install
 ## <span id="3">3、Usage</span>
 
 ### <span id="31">(1) chain-lexer</span>
-```bash
+```js
 let puckChain = require('puckChain');
 lexer = puckChain.chainLexer.cLexer;
 let code = "int a = 20;";
-lexer.start("code");
+lexer.start(code);
 let parsedTokens = lexer.DFA.result.tokens;
 ```
 
+You can also run test/test.sh directly to run the tests:
+
+```bash
+bash ./test/test.sh
+```
